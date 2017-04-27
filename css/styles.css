@@ -1,6 +1,18 @@
 /*CSS stylesheet*/
 
-
+body {
+	background: beige;
+}
 h1 {
 	color: blue;
+}
+h2,
+h3 {
+	color: orange;
+}
+#id-1 {
+	color: green;
+}
+.class-1 {
+	color: pink;
 }
