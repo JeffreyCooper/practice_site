@@ -21,7 +21,7 @@
 		<![endif]-->
 
 		<!-- Font Awesome -->
-		<link type="text/css"
+		<link type="text/css" href=""
 
 		<!-- Custome CSS -->
 		<link rel="stylesheet" href="css/styles.css" type="text/css">
@@ -39,8 +39,26 @@
 </head>
 <body>
 	<header>Practice Site</header>
-	<h1>TITLE</h1>
-	<p>text</p>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+				<p>Yes, that's it. Dagobah. No, I'm not going to change my mind about this. I'm not picking up any cities or technology. Massive life-form readings, though. There's something alive down there... Yes, I'm sure it's perfectly safe for droids. I know, I know! All the scopes are dead. I can't see a thing! Just hang on, I'm going to start the landing cycle... No, Artoo, you stay put. I'll have a look around.</p>
+			</div>
+			<div class="col-md-4">
+				<p>Princess...we have a visitor. We've picked up something outside the base in zone twelve, moving east. It's metal. Then it couldn't be one of those creatures that attacked Luke. It could be a speeder, one of ours. No. Wait - there's something very weak coming through. Sir, I am fluent in six million forms of communication. This signal is not used by the Alliance. It could be an Imperial code. It isn't friendly, whatever it is. Come on, Chewie, let's check it out. Send Rouges Ten and Eleven to station three-eight.</p>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6">
+				<p>Ready, are you? What know you of ready? For eight hundred years have I trained Jedi. My own counsel will I keep on who is to be trained! A Jedi must have the deepest commitment, the most serious mind. This one a long time have I watched. Never his mind on where he was. Hmm? What he was doing. Hmph. Adventure. Heh! Excitement. Heh! A Jedi craves not these things. You are reckless!</p>
+			</div>
+			<div class="col-md-6">
+				<p>Luke! You must complete the training. I can't keep the vision out of my head. They're my friends. I've got to help them. You must not go! But Han and Leia will die if I don't. You don't know that. Even Yoda cannot see their fate. But I can help them! I feel the Force! But you cannot control it. This is a dangerous time for you, when you will be tempted by the dark side of the Force. Yes, yes. To Obi-Wan you listen. The cave. Remember your failure at the cave! But I've learned so much since then. Master Yoda, I promise to return and finish what I've begun. You have my word. It is you and your abilities the Emperor wants. that is why your friends are made to suffer. And that is why I have to go. Luke, I don't want to lose you to the Emperor the way I lost Vader. You won't. Stopped they must be. On this depends.</p>
+			</div>
+		</div>
+	</div>
+
+
 	<div>
 		<p>div</p>
 	</div>

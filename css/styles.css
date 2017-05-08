@@ -1,18 +1,6 @@
 /*CSS stylesheet*/
 
-body {
-	background: lightblue;
-}
-h1 {
-	color: darkblue;
-}
-h2,
-h3 {
-	color: orange;
-}
-#id-1 {
-	color: green;
-}
-.class-1 {
-	color: brown;
+div[class*="col-"]{
+	background-color: yellow;
+
 }
