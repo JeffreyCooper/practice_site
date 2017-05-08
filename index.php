@@ -74,7 +74,11 @@
 		</main>
 	</div><!-- sfooter content -->
 	<footer>
-		Bootstrap Footer Sample
+		<div class="container">
+			<div class="row">
+				<div class="md-xs-12">Footer Sample for Bootstrap</div>
+			</div>
+		</div>
 	</footer>
 </body>
 </html>
