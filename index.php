@@ -53,10 +53,14 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-4">
-						<p>Yes, that's it. Dagobah. No, I'm not going to change my mind about this. I'm not picking up any cities or technology. Massive life-form readings, though. There's something alive down there... Yes, I'm sure it's perfectly safe for droids. I know, I know! All the scopes are dead. I can't see a thing! Just hang on, I'm going to start the landing cycle... No, Artoo, you stay put. I'll have a look around.</p>
+						<div class="corner1">
+							<p>Yes, that's it. Dagobah. No, I'm not going to change my mind about this. I'm not picking up any cities or technology. Massive life-form readings, though. There's something alive down there... Yes, I'm sure it's perfectly safe for droids. I know, I know! All the scopes are dead. I can't see a thing! Just hang on, I'm going to start the landing cycle... No, Artoo, you stay put. I'll have a look around.</p>
+						</div>
 					</div>
 					<div class="col-md-4">
-						<p>Princess...we have a visitor. We've picked up something outside the base in zone twelve, moving east. It's metal. Then it couldn't be one of those creatures that attacked Luke. It could be a speeder, one of ours. No. Wait - there's something very weak coming through. Sir, I am fluent in six million forms of communication. This signal is not used by the Alliance. It could be an Imperial code. It isn't friendly, whatever it is. Come on, Chewie, let's check it out. Send Rouges Ten and Eleven to station three-eight.</p>
+						<div class="corner1">
+							<p>Princess...we have a visitor. We've picked up something outside the base in zone twelve, moving east. It's metal. Then it couldn't be one of those creatures that attacked Luke. It could be a speeder, one of ours. No. Wait - there's something very weak coming through. Sir, I am fluent in six million forms of communication. This signal is not used by the Alliance. It could be an Imperial code. It isn't friendly, whatever it is. Come on, Chewie, let's check it out. Send Rouges Ten and Eleven to station three-eight.</p>
+						</div>
 					</div>
 					<div class="col-md-4">
 						<p>...and that, Lord Vader, was the last time they appeared in any of our scopes. Considering the amount of damage we've sustained, they must have been destroyed. No, Captain, they're alive. I want every ship available to sweep the asteroid field until they are found. Lord Vader. Yes, Admiral, what is it? The Emperor commands you make contact with him. Move the ship out of the asteroid field so that we can send a clear transmission. Yes, my lord.</p>

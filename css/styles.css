@@ -1,6 +1,11 @@
 /*CSS stylesheet*/
 
 div[class*="col-"]{
-	background-color: yellow;
-
+	background-color: darkslateblue;
+}
+footer {
+	background-color: darkcyan;
+	color: aliceblue;
+	font-size: 2rem;
+	font-family: serif;
 }
