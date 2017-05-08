@@ -47,6 +47,9 @@
 			<div class="col-md-4">
 				<p>Princess...we have a visitor. We've picked up something outside the base in zone twelve, moving east. It's metal. Then it couldn't be one of those creatures that attacked Luke. It could be a speeder, one of ours. No. Wait - there's something very weak coming through. Sir, I am fluent in six million forms of communication. This signal is not used by the Alliance. It could be an Imperial code. It isn't friendly, whatever it is. Come on, Chewie, let's check it out. Send Rouges Ten and Eleven to station three-eight.</p>
 			</div>
+			<div class="col-md-4">
+				<p>...and that, Lord Vader, was the last time they appeared in any of our scopes. Considering the amount of damage we've sustained, they must have been destroyed. No, Captain, they're alive. I want every ship available to sweep the asteroid field until they are found. Lord Vader. Yes, Admiral, what is it? The Emperor commands you make contact with him. Move the ship out of the asteroid field so that we can send a clear transmission. Yes, my lord.</p>
+			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-6">
